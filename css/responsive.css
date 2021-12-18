@@ -1,0 +1,289 @@
+/*most of the mobile phone css*/
+@media (min-width: 280px) and ( max-width: 320px){
+
+	/*css start*/
+	.header .banner{
+		width: 100%;
+		margin: 165px 0px 0px 0px;
+	}
+	.header .col-lg-12{
+		margin: -125px 0px 0px 0px;
+	}
+	.header .inner-banner h1{
+		font-size: 35px;
+	}
+	.header .inner-banner p{
+		font-size: 20px;
+	}
+	.logo .mid img{
+		width: 40%;
+	}
+	.logo .mid h3{
+		font-size: 25px;
+		line-height: 1.5em;
+	}
+	.logo .mid p{
+		font-size: 12px;
+		line-height: 1.4em;
+	}
+	.futeare .col-lg-4{
+		margin: -230px 0px 0px 0px;
+	}
+	.futeare .text p{
+		padding: 15px 0px;
+		line-height: 1.4em;
+	}
+	.we-who .inner-who h2{
+		font-size: 30px;
+	}
+	.we-who .inner-who p{
+		font-size: 13px;
+	}
+	.we-who .inner-who .btn-warning{
+		margin: 105px 0px;
+		padding: 3px 9px;
+	}
+	.your-only .inner-your h1{
+		font-size: 36px;		
+	}
+	.your-only .inner-your{
+		padding: 160px 0px 0px 20px;
+	}
+	.more-info .tex p{
+		font-size: 10px;
+	}
+	.more-info img{
+		padding: 70px 0px 0px 0px;
+	}
+	.more-info .tex{
+		padding: 80px 0px 0px 0px;
+	}
+	.footer .inner-ft1{
+		margin: -5px 0px 0px 0px;
+	}
+	.footer .inner-ft1 p{
+		text-align: center;
+	}
+
+	/*css end*/
+}
+@media (min-width: 320px) and ( max-width: 480px){
+/*css start*/
+	.header .banner{
+		width: 100%;
+		margin: 165px 0px 0px 0px;
+	}
+	.header .col-lg-12{
+		margin: -125px 0px 0px 0px;
+	}
+	.header .inner-banner h1{
+		font-size: 55px;
+	}
+	.header .inner-banner p{
+		font-size: 25px;
+	}
+	.logo .mid img{
+		width: 40%;
+	}
+	.logo .mid h3{
+		font-size: 25px;
+		line-height: 1.5em;
+	}
+	.logo .mid p{
+		font-size: 14px;
+		line-height: 1.4em;
+	}
+	.futeare .col-lg-4{
+		margin: -230px 0px 0px 0px;
+	}
+	.futeare .text p{
+		padding: 15px 0px;
+		line-height: 1.4em;
+	}
+	.we-who .inner-who h2{
+		font-size: 30px;
+	}
+	.we-who .inner-who p{
+		font-size: 13px;
+	}
+	.we-who .inner-who .btn-warning{
+		margin: 105px 0px;
+		padding: 3px 9px;
+	}
+	.your-only .inner-your h1{
+		font-size: 36px;		
+	}
+	.your-only .inner-your{
+		padding: 160px 0px 0px 20px;
+	}
+	.more-info .tex p{
+		font-size: 14px;
+	}
+	.more-info img{
+		padding: 70px 0px 0px 0px;
+	}
+	.more-info .tex{
+		padding: 80px 0px 0px 0px;
+	}
+	.footer .inner-ft{
+		margin: 80px 0px 0px 0px;
+		text-align: center;
+	}
+	.footer .inner-ft1{
+		margin: 50px 0px 0px 0px;
+	}
+	.footer .inner-ft1 p{
+		text-align: center;
+	}
+
+	/*css end*/
+
+}
+
+/*most of the mobile low regulation tablet, mobile phone css*/
+@media (min-width: 481px) and ( max-width: 767px){
+/*css start*/
+	.header .banner{
+		width: 100%;
+		margin: 165px 0px 0px 0px;
+	}
+	.header .col-lg-12{
+		margin: -125px 0px 0px 0px;
+	}
+	.header .inner-banner h1{
+		font-size: 65px;
+	}
+	.header .inner-banner p{
+		font-size: 30px;
+	}
+	.logo .mid img{
+		width: 50%;
+	}
+	.logo .mid h3{
+		font-size: 35px;
+		line-height: 1.5em;
+	}
+	.logo .mid p{
+		font-size: 24px;
+		line-height: 1.4em;
+	}
+	.futeare .col-lg-4{
+		margin: -230px 0px 0px 0px;
+	}
+	.futeare .text p{
+		padding: 15px 0px;
+		line-height: 1.4em;
+	}
+	.we-who .inner-who h2{
+		font-size: 40px;
+	}
+	.we-who .inner-who p{
+		font-size: 15px;
+	}
+	.we-who .inner-who .btn-warning{
+		margin: 105px 0px;
+		padding: 4px 11px;
+	}
+	.your-only .inner-your h1{
+		font-size: 45px;		
+	}
+	.your-only .inner-your{
+		padding: 160px 0px 0px 20px;
+	}
+	.more-info .tex p{
+		font-size: 15px;
+	}
+	.more-info img{
+		padding: 70px 0px 0px 0px;
+	}
+	.more-info .tex{
+		padding: 80px 0px 0px 0px;
+	}
+	.footer .inner-ft{
+		margin: 80px 0px 0px 0px;
+		text-align: center;
+	}
+	.footer .inner-ft1{
+		margin: 50px 0px 0px 0px;
+	}
+	.footer .inner-ft1 p{
+		text-align: center;
+	}
+
+/*css end*/
+
+}
+
+/*most of the ipad, tablet, notebook css*/
+@media (min-width: 768px) and ( max-width: 1024px){
+/*css start*/
+	.header .banner{
+		width: 100%;
+		margin: 165px 0px 0px 0px;
+
+	}
+	.header .col-lg-12{
+		margin: -125px 0px 0px 0px;
+	}
+	.header .inner-banner h1{
+		font-size: 75px;
+	}
+	.header .inner-banner p{
+		font-size: 35px;
+	}
+	.logo .mid img{
+		width: 50%;
+	}
+	.logo .imge img{
+		width: 30%;
+    	padding: 100px 0px;
+	}
+	.logo .mid h3{
+		font-size: 40px;
+		line-height: 1.5em;
+	}
+	.logo .mid p{
+		font-size: 28px;
+		line-height: 1.4em;
+	}
+	.futeare .col-lg-4{
+		margin: -230px 0px 0px 0px;
+	}
+	.futeare .text p{
+		font-size: 15px;
+		padding: 15px 0px;
+		line-height: 1.4em;
+	}
+	.we-who .inner-who h2{
+		font-size: 45px;
+	}
+	.we-who .inner-who p{
+		font-size: 17px;
+	}
+	.we-who .inner-who .btn-warning{
+		margin: 105px 0px;
+		padding: 5px 15px;
+	}
+	.more-info .tex p{
+		font-size: 20px;
+	}
+	.more-info img{
+		padding: 70px 0px 0px 0px;
+	}
+	.more-info .tex{
+		padding: 80px 0px 0px 0px;
+	}
+	.footer .inner-ft{
+		margin: 180px 0px 0px 0px;
+		text-align: center;
+	}
+	.footer .inner-ft1{
+		margin: 150px 0px 0px 0px;
+	}
+	.footer .inner-ft1 p{
+		text-align: center;
+	}
+
+/*css end*/
+
+}
