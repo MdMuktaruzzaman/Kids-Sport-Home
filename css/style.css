@@ -105,7 +105,8 @@ a, a:hover{
 	width: 100%;
 }
 .futeare .pic img{
-	width: 95%;
+	width: 100%;
+	margin: 0px 0px 0px -40px;
 }
 .futeare .text{
 	margin: 280px 0px 0px 0px;
